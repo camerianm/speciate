@@ -1,10 +1,9 @@
-install.packages("tidyverse")
+install.packages("dplyr")
 install.packages("rmarkdown")
 install.packages("httr")
-install.packages("shinydashboard")
-install.packages('leaflet')
+#install.packages("shinydashboard")
+#install.packages('leaflet')
 
 install.packages("CHNOSZ")
-install.packages("dplyr")
 install.packages("stringr")
 install.packages("tools")
